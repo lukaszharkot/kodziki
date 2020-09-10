@@ -1,0 +1,2 @@
+# kodziki
+nauka programowania
