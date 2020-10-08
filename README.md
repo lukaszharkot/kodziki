@@ -1,2 +1,3 @@
-# kodziki
-nauka programowania
+# Kody
+Programowanie
+Kleszcz pasożyt
